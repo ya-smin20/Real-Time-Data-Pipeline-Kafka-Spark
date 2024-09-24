@@ -1,0 +1,6 @@
+kafka-python
+pyspark
+pymongo
+kafka-python
+pyspark
+python-dotenv
